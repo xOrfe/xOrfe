@@ -1,16 +1,18 @@
-## Hi there 👋
+# xOrfe 🧿🦄
 
-<!--
-**xOrfe/xOrfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I bend the casuality so truth spits my face thouself." 🌀🕳️
 
-Here are some ideas to get you started:
+🎮 Indie Game Dev | ⚙️ GPU Computing Enthusiast  
+🎨 I craft pixels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ Languages & Dark Arts:
+- ⚔️ **C#** — Unity spells and clean architecture  
+- 🦀 **Rust** — Systems made elegant  
+- 🧿 **HLSL** — Shaders that whisper to GPUs  
+- 🚀 **CUDA** — Raw computation, tamed  
+
+---
+
+📬 Reach via : xorfe@proton.me
