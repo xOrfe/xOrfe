@@ -8,7 +8,7 @@
 ---
 
 🛠️ Languages & Dark Arts:
-- ⚔️ **C#** — Unity spells and clean architecture  
+- ⚔️ **C#** — GC Sucks  
 - 🦀 **Rust** — Systems made elegant  
 - 🧿 **HLSL** — Shaders that whisper to GPUs  
 - 🚀 **CUDA** — Raw computation, tamed  
